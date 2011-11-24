@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'phonegapcontacts' target in the 'phonegapcontacts' project
+//
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+#endif
